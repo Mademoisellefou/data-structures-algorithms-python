@@ -1,0 +1,18 @@
+def reverser(m,_word):
+    i=0
+    j=len(_word)-1
+    for x in range(m):
+        aux=_word[i]
+        _word[i]=_word[j]
+        _word[j]=aux
+        i+=1
+        j-=1
+    print(_word)
+# Let us say you have an array of characters 
+_word=['h', 'e', 'l', 'l', 'o']
+# 1. reverse all characters
+n=len(_word)
+reverser(n//2,_word)
+# 2. only reverse  n characters
+m=int(input('nro of characters > '))
+reverser(m,_word) if m<=n//2 else print(_word)
