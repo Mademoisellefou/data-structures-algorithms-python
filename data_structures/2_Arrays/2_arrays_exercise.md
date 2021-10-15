@@ -45,9 +45,10 @@ Max number is something you need to take from a user using input() function
 
 4.# Let us say you have an array of characters 
 
-__ _word=['h', 'e', 'l', 'l', 'o'] __
+_word=['h', 'e', 'l', 'l', 'o'] 
 1. reverse all characters
 
 2. only reverse  n characters
+
 [Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/2_Arrays/Solution/4_reverse.py)
 
