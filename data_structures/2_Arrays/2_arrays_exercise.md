@@ -50,5 +50,5 @@ _word=['h', 'e', 'l', 'l', 'o']
 
 2. only reverse  n characters
 
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/2_Arrays/Solution/4_reverse.py)
+[Solution](https://github.com/Mademoisellefou/data-structures-algorithms-python/blob/master/data_structures/2_Arrays/Solution/4_reverse.py)
 
